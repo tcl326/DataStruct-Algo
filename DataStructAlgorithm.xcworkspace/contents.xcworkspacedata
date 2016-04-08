@@ -2,6 +2,36 @@
 <Workspace
    version = "1.0">
    <FileRef
+      location = "group:HW8/HW8.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:HW7/HW7.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:extraCreditMaze/extraCreditMaze.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:HW06/HW06.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:HW05/HW05.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:Recitation2/Recitation2.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:HW04/HW04.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:HW03B/HW03B.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:HW03A/HW03A.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:Recitation1/Recitation1.xcodeproj">
+   </FileRef>
+   <FileRef
       location = "group:HW01/HW01.xcodeproj">
    </FileRef>
    <FileRef
